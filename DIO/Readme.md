@@ -4,7 +4,7 @@ Detalhes da formação pela própria DIO: Desenvolva suas habilidades com banco 
 
 ⚠️Pré-requisitos: Conhecimentos básicos em Lógica de Programação e Pensamento Computacional
 
-_**Minha descrição e pontuações sobre o curso**_
+_Minha descrição e pontuações sobre o curso_
 
 A formação como um todo é muito boa pra criar uma fundamentação sobre Banco de Dados e manipulação utilizando SQL, porém senti falta de um pouco mais de atividades de fixação, mas acredito que é uma opinião pessoal que não influencia drasticamente no aprendizado.
 
