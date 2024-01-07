@@ -14,5 +14,9 @@ No primeiro módulo, _Fundamentos de Banco de Dados_, é dado um panorama geral 
 
 Continuando com a fundamentação da matéria central da formação, o segundo módulo, _Modelo de Entidade Relacional com Banco de Dados_, traz conteúdos importantes e explicativos para o entendimento sobre regras, requisitos e boas práticas de modelagem de projetos para diminuir possíveis lacunas no resultado final da banco.
 
-O módulo 3️⃣, _Explorando a Linguagem de Consulta a Banco de Dados SQL_, é o primeiro módulo que eu considero ser o que mais tem atividades práticas que um momento de desatenção durante as aulas, pode comprometer o resultados final. Porém nada grave, até porque o conteúdo é gravado. Com a utilização de queries simples, caminhando para algumas um pouco mais intermediárias, é nese módulo que criamos o primeiro projeto lógico de Banco de Dados.
+O módulo 3️, _Explorando a Linguagem de Consulta a Banco de Dados SQL_, é o primeiro módulo que eu considero ser o que mais tem atividades práticas que um momento de desatenção durante as aulas, pode comprometer o resultados final. Porém nada grave, até porque o conteúdo é gravado. Com a utilização de queries simples, caminhando para algumas um pouco mais intermediárias, é nese módulo que criamos o primeiro projeto lógico de Banco de Dados.
+
+A coisa começa a ficar um pouco mais séria (e até por isso vou fazer questão de assistir novamente) no módulo 4, _Técnicas Avançadas em Banco de Dados com MySQL_. Criação e personalização de _views_, cláusulas DDL, _triggers_, indexação e _procedures_ são tópicos que demandam maior atenção e prática para fixar o conhecimento. Um outro assunto abordado foi a normalização de bancos de dados, que propõe algumas boas práticas e regras para garantir o funcionamento do banco.
+
+Para terminar, o módulo 5, _Transações & Gerenciaento de Banco de Dados no MySQL_, como o nome sugere, o tema principal é o de transações e gestão do banco, passando pela execução de backup e _recovery_. Vindo de dois módulos bem complexos, o último foi mais tranquilo mas também com conteúdo denso e complicado.
 
