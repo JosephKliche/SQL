@@ -20,3 +20,8 @@ A coisa começa a ficar um pouco mais séria (e até por isso vou fazer questão
 
 Para terminar, o módulo 5, _Transações & Gerenciaento de Banco de Dados no MySQL_, como o nome sugere, o tema principal é o de transações e gestão do banco, passando pela execução de backup e _recovery_. Vindo de dois módulos bem complexos, o último foi mais tranquilo mas também com conteúdo denso e complicado.
 
+**Opinião Pessoal**
+
+Não vou rankear o curso porque foi o primeiro que fiz, porém foi muito esclarecedor e bom para fundamentar meu conhecimento sobre gestão de banco de dados. Também foi o meu primeiro passo, caso eu faça outros em outro momento, tentarei voltar aqui para atualizar e dar uma nota.
+
+No geral, o curso é muito bom. Eu entendo não terem destrinchado mais ainda os assuntos porque ficaria muito grande, mas para quem está começando na área, é um ótimo primeiro passo para pavimentar o caminho na área de Análise de Dados e/ou Gestão de Banco de Dados.
