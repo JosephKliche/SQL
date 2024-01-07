@@ -4,5 +4,5 @@ Detalhes da formação pela própria DIO: Desenvolva suas habilidades com banco 
 
 ⚠️Pré-requisitos: Conhecimentos básicos em Lógica de Programação e Pensamento Computacional
 
-**Minha descrição e pontuações sobre o curso**
+<sub>**Minha descrição e pontuações sobre o curso**<sub>
 
