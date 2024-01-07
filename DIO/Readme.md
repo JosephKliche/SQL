@@ -6,3 +6,13 @@ Detalhes da formação pela própria DIO: Desenvolva suas habilidades com banco 
 
 _**Minha descrição e pontuações sobre o curso**_
 
+A formação como um todo é muito boa pra criar uma fundamentação sobre Banco de Dados e manipulação utilizando SQL, porém senti falta de um pouco mais de atividades de fixação, mas acredito que é uma opinião pessoal que não influencia drasticamente no aprendizado.
+
+É bom pontuar antecipadamente que a Instrutora Juliana Mascarenhas possui uma didática muito boa e parece conseguir escolher bem as palavras pra conseguir descomplicar o assunto mesmo para pessoas que não possuem um conhecimento prévio no assunto. É claro que para quem está tendo o primeiro contato com o assunto, tem uma certa dificuldade, porém ela buscou em todos os tópicos descomplicar os temas e detalhes ensinados.
+
+No primeiro módulo, _Fundamentos de Banco de Dados_, é dado um panorama geral sobre o assunto e sua aplicação no dia a dia de quem precisa trabalhar com Banco de Dados. Com algumas pesquisas a mais e anotações sobre o assunto, é possível entender o motivo de estudar o tema e a sua importância empresarial.
+
+Continuando com a fundamentação da matéria central da formação, o segundo módulo, _Modelo de Entidade Relacional com Banco de Dados_, traz conteúdos importantes e explicativos para o entendimento sobre regras, requisitos e boas práticas de modelagem de projetos para diminuir possíveis lacunas no resultado final da banco.
+
+O módulo 3, _Explorando a Linguagem de Consulta a Banco de Dados SQL_, é o primeiro módulo que eu considero ser o que mais tem atividades práticas que um momento de desatenção durante as aulas, pode comprometer o resultados final. Porém nada grave, até porque o conteúdo é gravado. Com a utilização de queries simples, caminhando para algumas um pouco mais intermediárias, é nese módulo que criamos o primeiro projeto lógico de Banco de Dados.
+
