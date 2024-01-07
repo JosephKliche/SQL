@@ -14,5 +14,5 @@ No primeiro módulo, _Fundamentos de Banco de Dados_, é dado um panorama geral 
 
 Continuando com a fundamentação da matéria central da formação, o segundo módulo, _Modelo de Entidade Relacional com Banco de Dados_, traz conteúdos importantes e explicativos para o entendimento sobre regras, requisitos e boas práticas de modelagem de projetos para diminuir possíveis lacunas no resultado final da banco.
 
-O módulo 3, _Explorando a Linguagem de Consulta a Banco de Dados SQL_, é o primeiro módulo que eu considero ser o que mais tem atividades práticas que um momento de desatenção durante as aulas, pode comprometer o resultados final. Porém nada grave, até porque o conteúdo é gravado. Com a utilização de queries simples, caminhando para algumas um pouco mais intermediárias, é nese módulo que criamos o primeiro projeto lógico de Banco de Dados.
+O módulo 3️⃣, _Explorando a Linguagem de Consulta a Banco de Dados SQL_, é o primeiro módulo que eu considero ser o que mais tem atividades práticas que um momento de desatenção durante as aulas, pode comprometer o resultados final. Porém nada grave, até porque o conteúdo é gravado. Com a utilização de queries simples, caminhando para algumas um pouco mais intermediárias, é nese módulo que criamos o primeiro projeto lógico de Banco de Dados.
 
